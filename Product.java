@@ -14,8 +14,8 @@ public class Product {
         return Sendal;
     }
 
-    public void setSendal(String Minuman) {
-        this.Sendal = Minuman;
+    public void setSendal(String Sendal) {
+        this.Sendal = Sendal;
     }
 
     public String getJumlah() {
