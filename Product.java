@@ -10,11 +10,11 @@ public class Product {
         this.Harga = Harga;
 
     }
-    public String getMinuman() {
+    public String getSendal() {
         return Sendal;
     }
 
-    public void Minuman(String Minuman) {
+    public void setSendal(String Minuman) {
         this.Sendal = Minuman;
     }
 
